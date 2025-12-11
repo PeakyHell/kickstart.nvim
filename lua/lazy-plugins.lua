@@ -1,7 +1,7 @@
 -- [[ Configure and install plugins ]]
 require('lazy').setup({
   -- PERF: Detect tabstop and shiftwidth automatically
-  'NMAC427/guess-indent.nvim',
+  { 'NMAC427/guess-indent.nvim', opts = {} },
 
   -- PERF: Adds git related signs to the gutter, as well as utilities for managing changes
   {
