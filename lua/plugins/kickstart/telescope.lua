@@ -1,4 +1,3 @@
--- PERF: Fuzzy Finder (files, lsp, etc)
 return {
   'nvim-telescope/telescope.nvim',
   event = 'VimEnter',

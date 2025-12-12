@@ -1,4 +1,3 @@
--- PERF: Main LSP Configuration
 return {
   'neovim/nvim-lspconfig',
   dependencies = {

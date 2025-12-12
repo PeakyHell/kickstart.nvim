@@ -1,4 +1,3 @@
--- PERF: Autoformat
 return {
   'stevearc/conform.nvim',
   event = { 'BufWritePre' },
