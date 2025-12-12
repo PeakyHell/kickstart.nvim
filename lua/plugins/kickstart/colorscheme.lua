@@ -1,3 +1,4 @@
+-- PERF: Colorscheme
 return {
   -- If you want to see what colorschemes are already installed, you can use `:Telescope colorscheme`.
   'folke/tokyonight.nvim',
